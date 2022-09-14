@@ -35,7 +35,7 @@ todoDiv.appendChild(trashButton);
   todoList.appendChild(todoDiv);
 
 /* Clean the todoinput box after added on our todolist*/
-  todoInput.value = " ";
+  todoInput.value = "";
 }
 )
 
